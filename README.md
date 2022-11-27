@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lincolnpowell/lincolnpowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/lincolnpowell"><img src="https://api.daily.dev/devcards/305629f384df4260ac0795d742f975aa.png?r=4t5" width="400" alt="Lincoln Powell's Dev Card"/></a>

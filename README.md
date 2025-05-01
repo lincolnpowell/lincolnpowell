@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/lincolnpowell"><img src="https://github.com/lincolnpowell/lincolnpowell/blob/master/devcard.svg" width="400" alt="Lincoln Powell's Dev Card"/></a>
+<a href="https://app.daily.dev/lincolnpowell"><img src="https://api.daily.dev/devcards/v2/hgpfr5BD-.png?type=default&r=216" width="356" alt="Lincoln Powell's Dev Card"/></a>
